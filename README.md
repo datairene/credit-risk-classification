@@ -7,4 +7,4 @@ Results:
 - precision score: 0.85
 - recall score: 0.91
 
-I would recomend this model to be used by the company. With high accuracy, recall and precision the model is very good at predicting credit worthiness. It is important to still consider the specific business risks of a false positive or false negative. It is also essential to take a look at the ethics of individual cases and be aware of how a false negative could impact individuals applying for loans. One way to midigate this risk is by creating a system for applicants who are denined loans to work directly with staff.
+I would recommend this model to be used by the company. With high accuracy, recall and precision the model is very good at predicting credit worthiness. It is important to still consider the specific business risks of a false positive or false negative. It is also essential to take a look at the ethics of individual cases and be aware of how a false negative could impact individuals applying for loans. One way to midigate this risk is by creating a system for applicants who are denined loans to work directly with staff.
