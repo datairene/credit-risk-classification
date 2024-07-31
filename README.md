@@ -1,1 +1,1 @@
-This project used supervised learning to train and evaluate a model based on loan risk. The purpose of this analysis is to predict if someone will defaoult on their loans
+This project used supervised learning to train and evaluate a model based on loan risk. The purpose of this analysis is to predict if someone will defaoult on their loans based on income, debt to income ratio, number of accounts, derogatory marks, total debt and loan status. 
