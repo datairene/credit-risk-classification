@@ -4,7 +4,11 @@ Using Python, numpy, pandas, pathlib and sklearn.metrics I split the data into t
 
 Results:
 - accuracy score: 0.99
-- precision score: 0.85
-- recall score: 0.91
+Model 1 (healthy loan):
+- precision score: 1.00
+- recall score: 0.99
+Model 2 (high-risk loan):
+- precision score: 0.84
+- recall score: 0.99
 
-I would recommend this model to be used by the company. With high accuracy, recall and precision the model is very good at predicting credit worthiness. It is important to still consider the specific business risks of a false positive or false negative. It is also essential to take a look at the ethics of individual cases and be aware of how a false negative could impact individuals applying for loans. One way to midigate this risk is by creating a system for applicants who are denined loans to work directly with staff.
+Overall, the logistic regression model performs exceptionally well in predicting both healthy and high-risk loans. It exhibits high precision, recall, and F1-score for both classes, indicating strong predictive performance across the board. It is important to still consider the specific business risks of a false positive or false negative. It is also essential to take a look at the ethics of individual cases and be aware of how a false negative could impact individuals applying for loans. One way to midigate this risk is by creating a system for applicants who are denined loans to work directly with staff.
