@@ -4,9 +4,11 @@ Using Python, numpy, pandas, pathlib and sklearn.metrics I split the data into t
 
 Results:
 - accuracy score: 0.99
+
 Model 1 (healthy loan):
 - precision score: 1.00
 - recall score: 0.99
+
 Model 2 (high-risk loan):
 - precision score: 0.84
 - recall score: 0.99
